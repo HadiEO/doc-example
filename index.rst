@@ -10,4 +10,3 @@ Welcome to My Great Project's documentation!
    :maxdepth: 2
  
    feature-a
-   feature-b
